@@ -18,7 +18,9 @@ Overall, UCB helps reinforcement learning agents make decisions that maximize cu
 
 ## Model Performance
 
-
+<center>
+  <img src="https://github.com/Neill-Erasmus/ad-selection/assets/141222943/7b78b24b-459a-45a0-a8e1-fca9d471edc3" alt="output">
+</center>
 
 ## License
 
